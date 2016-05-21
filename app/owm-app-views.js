@@ -1,2 +1,1 @@
-var viewsModule = angular.module('owmAppViews',
-    ['ngRoute', 'owmLibrary', 'geolocation']);
+var viewsModule = angular.module('owmAppViews', ['ngRoute', 'owmLibrary', 'geolocation', 'owmHistory']);
